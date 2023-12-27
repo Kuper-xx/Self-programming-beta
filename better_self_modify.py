@@ -4,7 +4,7 @@ import time
 #TUTO:
 #It is a fascinating example of a self-modifying code concept. It dynamically alters its own source code to switch between two versions of a function (updateCountV1 and updateCountV2). 
 #This is a creative approach to demonstrate how a Python program can read and write its own source file to change its behavior upon subsequent executions.
-#Here's a breakdown of how your script works:
+#Here's a breakdown of how the script works:
 # * Defining Two Function Versions: Two versions of a function, updateCountV1 and updateCountV2, are defined, each printing a different message.
 # * Determining the Active Function: The get_active_function function reads the script's source code to determine which version of the updateCount function is currently active (not commented out).
 # * Modifying the Script: The modify_script function rewrites the script's own source code. It comments out the currently active version of the updateCount function and uncomments the other version.
