@@ -7,6 +7,7 @@ Here we have an example of the usage of one non-best idea but it works, and this
 <br>
 <i>The idea of the repository it's not give a solution, just give the idea, simple code examples and my notes</i>
 <hr>
+
 I want to show this code I made during my investigations with some references:
 * https://wiki.c2.com/?SelfModifyingCode
 * https://stackoverflow.com/questions/45175647/self-modifying-python-script
