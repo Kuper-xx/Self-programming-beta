@@ -5,7 +5,8 @@
 <br>
 Here we have an example of the usage of one non-best idea but it works, and this means it can be better in the future...
 <br>
-<i>The idea of the repository it's not give a solution, just give the idea, simple code examples and my notes</i>
+<br>
+<i><b>The idea of the repository it's not give a solution, just give the idea, simple code examples and my notes</b></i>
 <hr>
 
 I want to show this code I made during my investigations with some references:
