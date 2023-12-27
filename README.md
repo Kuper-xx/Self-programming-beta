@@ -1,4 +1,6 @@
 # Self-programming beta, or maybe Self-modifying in this case:
+![auto-programming1](https://github.com/Kuper-xx/Self-programming-beta/assets/44248472/7a6a5a90-6075-4254-aeb7-c3626df1679b)
+
 Here we have an example of the usage of one non-best idea but it works, and this means it can be better in the future
 
 I want to show this code I made during my investigations with some references
