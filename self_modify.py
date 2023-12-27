@@ -1,5 +1,5 @@
-# MODIFY FUNCTION
-# Count: 4
+# MODIFY FUNCTION: Every time you run the code the count increase +1
+# Count: 0
 # def updateCount():
 #     print("Updating count...")
 
