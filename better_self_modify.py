@@ -38,7 +38,8 @@ def modify_script(active_function):
     with open(__file__, 'r') as file:
         lines = file.readlines()
 
-    new_active_function = updateCountV1 if active_function == updateCountV2 else updateCountV2
+    # Use random to select the new active function
+    new_active_function = random.choice([updateCountV1, updateCountV2])
 
     in_function_block = False
     process_lines = False
